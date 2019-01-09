@@ -1,11 +1,4 @@
-<style media="screen">
 .container{
-  width: 50%;
-  height: 200px;
-  overflow: auto;
-  margin-left: :0 auto;
-}
-  .container{
     width: 40%;
     height: 200px;
     overflow: auto;
@@ -28,4 +21,3 @@
     background: darkblue;
     color: white;
   }
-</style>
