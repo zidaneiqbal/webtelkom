@@ -1,0 +1,26 @@
+<style media="screen">
+.container{
+  width: 50%;
+  height: 200px;
+  overflow: auto;
+  margin-left: :0 auto;
+}
+div.box{
+  display: inline-block;
+  width: 200px;
+  float: left;
+  border: 2px Solid #ddd;
+  margin: 10px;
+}
+div.box img{
+  width: 100%;
+  height: 250px;
+}
+div.box hover{
+  border: 3px solid #000;
+}
+div.box div.deskripsi{
+  padding: 10px;
+  text-align: center;
+}
+</style>
