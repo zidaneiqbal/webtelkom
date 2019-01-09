@@ -6,8 +6,8 @@ div{
 .bgcolor{ background-color: #ff4533; }
 .bgimage{ background-image: url("ditf.png"); }
 .bgposition{
-  height: 350px;
-  background: url("ditf.png") #820004 no-repeat left;
+  height: 750px;
+  background: url("ditf.png") #820004 no-repeat center;
 }
 .gradient1{ background:linear-gradient(to right, red, yellow, green);}
 .gradient2{ background:linear-gradient(red, yellow, green);}
