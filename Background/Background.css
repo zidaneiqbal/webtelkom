@@ -9,5 +9,5 @@ div{
   height: 350px;
   background: url("ditf.png") #820004 no-repeat left;
 }
-.gradient1{ background: linear-gradient (to right, red, yellow, green);}
-.gradient2{ background: linear-gradient (red, yellow, green);}
+.gradient1{ background:linear-gradient(to right, red, yellow, green);}
+.gradient2{ background:linear-gradient(red, yellow, green);}
